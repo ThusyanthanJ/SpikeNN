@@ -1,0 +1,127 @@
+Total Parameters: 4,905,233
+Trainable Parameters: 4,905,233
+Epoch:  0  started...
+length of Training loader:  1114
+Training Epoch 0: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:45<00:00,  3.23batch/s]
+Epoch 0, Training Accuracy 0.5092010771992819
+Epoch 0, test Accuracy 0.4732142857142857, test loss 1.2487903941761365
+Epoch:  1  started...
+length of Training loader:  1114
+Training Epoch 1: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:53<00:00,  3.16batch/s]
+Epoch 1, Training Accuracy 0.6161355475763016
+Epoch 1, test Accuracy 0.6047077922077922, test loss 1.0031512371905438
+Epoch:  2  started...
+length of Training loader:  1114
+Training Epoch 2: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:55<00:00,  3.14batch/s] 
+Epoch 2, Training Accuracy 0.6799820466786356
+Epoch 2, test Accuracy 0.702922077922078, test loss 0.8084614741337763
+Epoch:  3  started...
+length of Training loader:  1114
+Training Epoch 3: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:56<00:00,  3.12batch/s] 
+Epoch 3, Training Accuracy 0.7133078994614004
+Epoch 3, test Accuracy 0.640422077922078, test loss 0.9470169265548904
+Epoch:  4  started...
+length of Training loader:  1114
+Training Epoch 4: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:57<00:00,  3.12batch/s] 
+Epoch 4, Training Accuracy 0.7399012567324955
+Epoch 4, test Accuracy 0.6915584415584416, test loss 0.7965117120123529
+Epoch:  5  started...
+length of Training loader:  1114
+Training Epoch 5: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:58<00:00,  3.10batch/s] 
+Epoch 5, Training Accuracy 0.757181328545781
+Epoch 5, test Accuracy 0.6996753246753247, test loss 0.8038953805898691
+Epoch:  6  started...
+length of Training loader:  1114
+Training Epoch 6: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:56<00:00,  3.12batch/s] 
+Epoch 6, Training Accuracy 0.7814183123877917
+Epoch 6, test Accuracy 0.7288961038961039, test loss 0.7358146271148285
+Epoch:  7  started...
+length of Training loader:  1114
+Training Epoch 7: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:57<00:00,  3.11batch/s] 
+Epoch 7, Training Accuracy 0.7934245960502693
+Epoch 7, test Accuracy 0.773538961038961, test loss 0.6325343738902699
+Epoch:  8  started...
+length of Training loader:  1114
+Training Epoch 8: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:58<00:00,  3.10batch/s] 
+Epoch 8, Training Accuracy 0.8137342908438061
+Epoch 8, test Accuracy 0.7849025974025974, test loss 0.6002537615887531
+Epoch:  9  started...
+length of Training loader:  1114
+Training Epoch 9: 100%|█████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [05:58<00:00,  3.11batch/s] 
+Epoch 9, Training Accuracy 0.8186714542190305
+Epoch 9, test Accuracy 0.7849025974025974, test loss 0.6283863117168476
+Epoch:  10  started...
+length of Training loader:  1114
+Training Epoch 10: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:00<00:00,  3.09batch/s] 
+Epoch 10, Training Accuracy 0.8343806104129264
+Epoch 10, test Accuracy 0.7784090909090909, test loss 0.5938627565061891
+Epoch:  11  started...
+length of Training loader:  1114
+Training Epoch 11: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:02<00:00,  3.08batch/s] 
+Epoch 11, Training Accuracy 0.8436938958707361
+Epoch 11, test Accuracy 0.8068181818181818, test loss 0.5842559120871804
+Epoch:  12  started...
+length of Training loader:  1114
+Training Epoch 12: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:00<00:00,  3.09batch/s] 
+Epoch 12, Training Accuracy 0.8571588868940754
+Epoch 12, test Accuracy 0.8133116883116883, test loss 0.5274334696980266
+Epoch:  13  started...
+length of Training loader:  1114
+Training Epoch 13: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:01<00:00,  3.09batch/s] 
+Epoch 13, Training Accuracy 0.8627692998204668
+Epoch 13, test Accuracy 0.799512987012987, test loss 0.5418148288479099
+Epoch:  14  started...
+length of Training loader:  1114
+Training Epoch 14: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:03<00:00,  3.06batch/s] 
+Epoch 14, Training Accuracy 0.8734290843806104
+Epoch 14, test Accuracy 0.8051948051948052, test loss 0.5318872526094511
+Epoch:  15  started...
+length of Training loader:  1114
+Training Epoch 15: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:02<00:00,  3.07batch/s] 
+Epoch 15, Training Accuracy 0.8800493716337523
+Epoch 15, test Accuracy 0.7922077922077922, test loss 0.6023884562702922
+Epoch:  16  started...
+length of Training loader:  1114
+Training Epoch 16: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:01<00:00,  3.08batch/s] 
+Epoch 16, Training Accuracy 0.8834156193895871
+Epoch 16, test Accuracy 0.8271103896103896, test loss 0.5063376488623681
+Epoch:  17  started...
+length of Training loader:  1114
+Training Epoch 17: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:02<00:00,  3.07batch/s] 
+Epoch 17, Training Accuracy 0.8960951526032316
+Epoch 17, test Accuracy 0.799512987012987, test loss 0.5361563942649148
+Epoch:  18  started...
+length of Training loader:  1114
+Training Epoch 18: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:12<00:00,  2.99batch/s] 
+Epoch 18, Training Accuracy 0.8982271095152603
+Epoch 18, test Accuracy 0.7962662337662337, test loss 0.5215577459954596
+Epoch:  19  started...
+length of Training loader:  1114
+Training Epoch 19: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:03<00:00,  3.07batch/s] 
+Epoch 19, Training Accuracy 0.9031642728904847
+Epoch 19, test Accuracy 0.8133116883116883, test loss 0.5165147657518263
+Epoch:  20  started...
+length of Training loader:  1114
+Training Epoch 20: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:03<00:00,  3.07batch/s] 
+Epoch 20, Training Accuracy 0.9028276481149012
+Epoch 20, test Accuracy 0.8214285714285714, test loss 0.48181672529740766
+Epoch:  21  started...
+length of Training loader:  1114
+Training Epoch 21: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:03<00:00,  3.06batch/s] 
+Epoch 21, Training Accuracy 0.9077648114901257
+Epoch 21, test Accuracy 0.8116883116883117, test loss 0.5176426280628551
+Epoch:  22  started...
+length of Training loader:  1114
+Training Epoch 22: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:40<00:00,  2.78batch/s] 
+Epoch 22, Training Accuracy 0.9060816876122083
+Epoch 22, test Accuracy 0.8238636363636364, test loss 0.5004769857827719
+Epoch:  23  started...
+length of Training loader:  1114
+Training Epoch 23: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:23<00:00,  2.91batch/s] 
+Epoch 23, Training Accuracy 0.9094479353680431
+Epoch 23, test Accuracy 0.8319805194805194, test loss 0.487186184177151
+Epoch:  24  started...
+length of Training loader:  1114
+Training Epoch 24: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1114/1114 [06:05<00:00,  3.04batch/s] 
+Epoch 24, Training Accuracy 0.9150583482944344
+Epoch 24, test Accuracy 0.8222402597402597, test loss 0.4816297060483462
