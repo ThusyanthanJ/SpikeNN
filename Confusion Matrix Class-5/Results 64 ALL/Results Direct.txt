@@ -1,0 +1,174 @@
+Total Parameters: 4,916,519
+Trainable Parameters: 4,916,519
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 0
+length of Training loader:  6303
+Training Epoch 0: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [49:59<00:00,  2.10batch/s]
+Epoch 0, Training Accuracy 0.26354513723623674
+Epoch 0, test Accuracy 0.35815630597775966, test loss 2.2398890864429624
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 1
+length of Training loader:  6303
+Training Epoch 1: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [51:51<00:00,  2.03batch/s]
+Epoch 1, Training Accuracy 0.37710217356814213
+Epoch 1, test Accuracy 0.4519620412594885, test loss 1.8925966918806754
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 2
+length of Training loader:  6303
+Training Epoch 2: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [52:38<00:00,  2.00batch/s]
+Epoch 2, Training Accuracy 0.4482587656671426
+Epoch 2, test Accuracy 0.48491974396548665, test loss 1.7640038619111804
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 3
+length of Training loader:  6303
+Training Epoch 3: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [57:30<00:00,  1.83batch/s] 
+Epoch 3, Training Accuracy 0.49426860225289543
+Epoch 3, test Accuracy 0.4986622493193991, test loss 1.69933943472439
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 4
+length of Training loader:  6303
+Training Epoch 4: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [54:20<00:00,  1.93batch/s] 
+Epoch 4, Training Accuracy 0.5370458511819768
+Epoch 4, test Accuracy 0.5508756431900007, test loss 1.5008389736006669
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 5
+length of Training loader:  6303
+Training Epoch 5: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [54:59<00:00,  1.91batch/s] 
+Epoch 5, Training Accuracy 0.5754600983658575
+Epoch 5, test Accuracy 0.5818266679155434, test loss 1.392444138629753
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 6
+length of Training loader:  6303
+Training Epoch 6: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [55:45<00:00,  1.88batch/s] 
+Epoch 6, Training Accuracy 0.6087973980644138
+Epoch 6, test Accuracy 0.5861845503600313, test loss 1.3684062633016458
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 7
+length of Training loader:  6303
+Training Epoch 7: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [56:39<00:00,  1.85batch/s] 
+Epoch 7, Training Accuracy 0.6377320323655402
+Epoch 7, test Accuracy 0.6520795876268091, test loss 1.2014244677124717
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 8
+length of Training loader:  6303
+Training Epoch 8: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [56:48<00:00,  1.85batch/s] 
+Epoch 8, Training Accuracy 0.6673012851023322
+Epoch 8, test Accuracy 0.663369567386138, test loss 1.1277291236210627
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 9
+length of Training loader:  6303
+Training Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:01:35<00:00,  1.71batch/s] 
+Epoch 9, Training Accuracy 0.6851895922576551
+Epoch 9, test Accuracy 0.6808010278846836, test loss 1.0675038436214175
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 10
+length of Training loader:  6303
+Training Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:02:32<00:00,  1.68batch/s] 
+Epoch 10, Training Accuracy 0.7096025702046644
+Epoch 10, test Accuracy 0.6623560789630036, test loss 1.1122521737106272
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 11
+length of Training loader:  6303
+Training Epoch 11: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:00:22<00:00,  1.74batch/s] 
+Epoch 11, Training Accuracy 0.7215611613517373
+Epoch 11, test Accuracy 0.6967325892540437, test loss 1.0111974917529796
+Snn train loader created...
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 12
+length of Training loader:  6303
+Training Epoch 12: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:00:46<00:00,  1.73batch/s] 
+Epoch 12, Training Accuracy 0.740817864508964
+Epoch 12, test Accuracy 0.7052861710547318, test loss 0.9602031383016458
+Training Epoch 13: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:02:43<00:00,  1.67batch/s] 
+Epoch 13, Training Accuracy 0.7544026653974298
+Epoch 13, test Accuracy 0.7142046474842154, test loss 0.9432156202335769
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 14
+length of Training loader:  6303
+Training Epoch 14: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:02:02<00:00,  1.69batch/s]
+Epoch 14, Training Accuracy 0.7686815801999048
+Epoch 14, test Accuracy 0.7262648063945446, test loss 0.8990693281782066
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 15
+length of Training loader:  6303
+Training Epoch 15: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:03:16<00:00,  1.66batch/s]
+Epoch 15, Training Accuracy 0.7822068856100269
+Epoch 15, test Accuracy 0.7247040799473254, test loss 0.8914851730987514
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 16
+length of Training loader:  6303
+Training Epoch 16: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:01:38<00:00,  1.70batch/s]
+Epoch 16, Training Accuracy 0.7941258131048707
+Epoch 16, test Accuracy 0.7237919472944452, test loss 0.9108145429111095
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 17
+length of Training loader:  6303
+Training Epoch 17: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:05:27<00:00,  1.60batch/s] 
+Epoch 17, Training Accuracy 0.8029311438997303
+Epoch 17, test Accuracy 0.7308051015137274, test loss 0.8662762679793913
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 18
+length of Training loader:  6303
+Training Epoch 18: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:01:49<00:00,  1.70batch/s] 
+Epoch 18, Training Accuracy 0.8102887513882279
+Epoch 18, test Accuracy 0.7458650586824276, test loss 0.8323310912670261
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 19
+length of Training loader:  6303
+Training Epoch 19: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:07:19<00:00,  1.56batch/s] 
+Epoch 19, Training Accuracy 0.8159209900047596
+Epoch 19, test Accuracy 0.7420341846756172, test loss 0.8314485409202965
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 20
+length of Training loader:  6303
+Training Epoch 20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:02:15<00:00,  1.69batch/s] 
+Epoch 20, Training Accuracy 0.8239132159289227
+Epoch 20, test Accuracy 0.7469799028758158, test loss 0.8237303994705945
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 21
+length of Training loader:  6303
+Training Epoch 21: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:04:08<00:00,  1.64batch/s] 
+Epoch 21, Training Accuracy 0.8279787402824053
+Epoch 21, test Accuracy 0.7478312082106626, test loss 0.8185809305388053
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 22
+length of Training loader:  6303
+Training Epoch 22: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:04:28<00:00,  1.63batch/s] 
+Epoch 22, Training Accuracy 0.8337498016817388
+Epoch 22, test Accuracy 0.7391762706397205, test loss 0.8326647408839387
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 23
+length of Training loader:  6303
+Training Epoch 23: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:12:04<00:00,  1.46batch/s] 
+Epoch 23, Training Accuracy 0.8342654291607171
+Epoch 23, test Accuracy 0.7479325639809166, test loss 0.8106587612398908
+Snn train loader created...
+Snn test loader created...
+Processing epoch: 24
+length of Training loader:  6303
+Training Epoch 24: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 6303/6303 [1:05:15<00:00,  1.61batch/s] 
+Epoch 24, Training Accuracy 0.8339679517689988
+Epoch 24, test Accuracy 0.7441624480127341, test loss 0.8276850757750426
